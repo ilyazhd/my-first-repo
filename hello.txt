@@ -1,1 +1,1 @@
-hello, Git! This is an update
+this is a conflict branch
